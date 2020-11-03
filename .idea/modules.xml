@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Account/Account.iml" filepath="$PROJECT_DIR$/Account/Account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Client/Client.iml" filepath="$PROJECT_DIR$/Client/Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/ConfigServer/ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway/Gateway.iml" filepath="$PROJECT_DIR$/Gateway/Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Menu/Menu.iml" filepath="$PROJECT_DIR$/Menu/Menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Order/Order.iml" filepath="$PROJECT_DIR$/Order/Order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud_OrderSystem-master.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud_OrderSystem-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User/User.iml" filepath="$PROJECT_DIR$/User/User.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+    </modules>
+  </component>
+</project>

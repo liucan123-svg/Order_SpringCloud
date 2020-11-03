@@ -1,0 +1,20 @@
+server:
+  port: 9899
+spring:
+  application:
+    name: ConfigServer
+  profiles:
+    active: native
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/commons   #制定配置搜索的目录
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9900/eureka/
+  instance:
+    instance-id: config-9899  #注册到Eureka Server上的是IP
+    prefer-ip-address: true

@@ -1,0 +1,8 @@
+server:
+  port: 9900
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9900/eureka/   # 注册中心的访问地址
+    register-with-eureka: false  #由于自己就是服务器，不需要注册到自己
+    fetch-registry: false    #由于自己就是服务器，不需要从服务器获取注册信息

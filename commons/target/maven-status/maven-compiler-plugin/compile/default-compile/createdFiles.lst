@@ -1,0 +1,7 @@
+com\lc\entity\Admin.class
+com\lc\entity\Type.class
+com\lc\entity\Menu.class
+com\lc\entity\Order.class
+com\lc\entity\Msg.class
+com\lc\entity\User.class
+com\lc\entity\AllVO.class

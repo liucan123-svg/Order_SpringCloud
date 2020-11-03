@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Account" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConfigServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/EurekaServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Menu" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/User" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commons" charset="UTF-8" />
+  </component>
+</project>

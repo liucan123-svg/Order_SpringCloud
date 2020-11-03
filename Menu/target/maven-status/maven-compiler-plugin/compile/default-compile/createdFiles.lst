@@ -1,0 +1,8 @@
+com\lc\controller\MenuController.class
+com\lc\service\TypeServiceImpl.class
+com\lc\service\MenuServiceImpl.class
+com\lc\dao\MenuDao.class
+com\lc\dao\TypeDao.class
+com\lc\MenuApp.class
+com\lc\service\MenuService.class
+com\lc\service\TypeService.class
